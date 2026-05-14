@@ -34,8 +34,8 @@ The book repeatedly links fungi with decomposition and nutrient return to the en
 
 ## Related pages
 
-- [[five-kingdoms-of-nature]]
-- [[monera]]
-- [[protista]]
-- [[animals]]
-- [[zoology]]
+- [five-kingdoms-of-nature](five-kingdoms-of-nature.md)
+- [monera](monera.md)
+- [protista](protista.md)
+- [animals](animals.md)
+- [zoology](zoology.md)

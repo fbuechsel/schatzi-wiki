@@ -40,7 +40,7 @@ The source recommends artificial fertilisation to overcome mating difficulties b
 
 ## Related pages
 
-- [[horse-breeding]]
-- [[equine-breeds]]
-- [[livestock-reproduction-techniques]]
-- [[zootechnics]]
+- [horse-breeding](horse-breeding.md)
+- [equine-breeds](equine-breeds.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [zootechnics](zootechnics.md)

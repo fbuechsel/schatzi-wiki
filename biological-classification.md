@@ -32,7 +32,7 @@ At the same time, the source stresses that Linnaeus worked within a fixist view 
 
 The source then turns from fixist classification to evolutionary classification. It argues that Linnaean ranks remain useful, but that resemblance should be interpreted through common ancestry, divergence, and historical change rather than as evidence of an unchanging natural ladder. (source: Zoology.pdf - Pages 7-12)
 
-This evolutionary turn is one of the key bridges between [[biological-classification]] and [[biological-evolution]]. In the source, categories such as species and phylum matter not only for naming organisms but also for reconstructing broad patterns of shared organization and change through time. (source: Zoology.pdf - Pages 7-12)
+This evolutionary turn is one of the key bridges between [biological-classification](biological-classification.md) and [biological-evolution](biological-evolution.md). In the source, categories such as species and phylum matter not only for naming organisms but also for reconstructing broad patterns of shared organization and change through time. (source: Zoology.pdf - Pages 7-12)
 
 ## Further reading
 
@@ -41,8 +41,8 @@ This evolutionary turn is one of the key bridges between [[biological-classifica
 
 ## Related pages
 
-- [[zoology]]
-- [[five-kingdoms-of-nature]]
-- [[biological-evolution]]
-- [[animals]]
-- [[vertebrates]]
+- [zoology](zoology.md)
+- [five-kingdoms-of-nature](five-kingdoms-of-nature.md)
+- [biological-evolution](biological-evolution.md)
+- [animals](animals.md)
+- [vertebrates](vertebrates.md)

@@ -30,7 +30,7 @@ This page preserves the source's general husbandry account. Current calf-care pr
 
 ## Related pages
 
-- [[cattle-reproduction-and-lactation]]
-- [[cattle-farming]]
-- [[livestock-reproduction-techniques]]
-- [[livestock-welfare-and-regulation]]
+- [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md)
+- [cattle-farming](cattle-farming.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md)

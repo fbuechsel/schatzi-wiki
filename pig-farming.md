@@ -44,7 +44,7 @@ Sows are described as being in heat for 2 to 3 days, with obvious signs includin
 
 ## Related pages
 
-- [[pig-breeds]]
-- [[livestock-breeding-systems]]
-- [[livestock-reproduction-techniques]]
-- [[zootechnics]]
+- [pig-breeds](pig-breeds.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [zootechnics](zootechnics.md)

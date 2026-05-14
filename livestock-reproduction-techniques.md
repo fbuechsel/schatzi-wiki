@@ -8,11 +8,11 @@
 
 ---
 
-The source treats reproduction as a central livestock-management problem that combines puberty, timing of first use, detection of heat, choice of natural or [[artificial-insemination]], pregnancy management, birth, and postpartum care. Its most detailed sections concern cattle, sheep, horses, and pigs, with mules and hinnies treated through hybrid breeding. (source: Zootechnics.pdf - Pages 21-26, 35-36, 45-46, 49-50, 59)
+The source treats reproduction as a central livestock-management problem that combines puberty, timing of first use, detection of heat, choice of natural or [artificial-insemination](artificial-insemination.md), pregnancy management, birth, and postpartum care. Its most detailed sections concern cattle, sheep, horses, and pigs, with mules and hinnies treated through hybrid breeding. (source: Zootechnics.pdf - Pages 21-26, 35-36, 45-46, 49-50, 59)
 
 ## Cattle
 
-Cattle reproduction is described through a polyoestrous cycle recurring about every three weeks, practical heat signs, male and female breeding schedules, fertilisation timing, cervical-rectal [[artificial-insemination]], embryo transfer, pregnancy, twin types, birth, postpartum care, [[colostrum]], and lactation. (source: Zootechnics.pdf - Pages 21-26)
+Cattle reproduction is described through a polyoestrous cycle recurring about every three weeks, practical heat signs, male and female breeding schedules, fertilisation timing, cervical-rectal [artificial-insemination](artificial-insemination.md), embryo transfer, pregnancy, twin types, birth, postpartum care, [colostrum](colostrum.md), and lactation. (source: Zootechnics.pdf - Pages 21-26)
 
 Artificial insemination is especially important in the cattle section. The source says it supports genetic improvement, progeny testing, economical use of semen, and reduced transmission of infectious genital diseases because mating contact is avoided. (source: Zootechnics.pdf - Page 23)
 
@@ -40,16 +40,16 @@ The source defines a mule as the offspring of a male donkey and a mare, and a hi
 
 ## Source-Specific Caution
 
-Several procedures in the source, including tail docking, castration, dehorning, retained-placenta handling, and some assisted-birth practices, are summarized as historical or source-specific husbandry content. [[livestock-welfare-and-regulation]] separates those source descriptions from current legal, welfare, and veterinary guidance, which may differ by jurisdiction. (source: Zootechnics.pdf - Pages 25, 36, 46, 50)
+Several procedures in the source, including tail docking, castration, dehorning, retained-placenta handling, and some assisted-birth practices, are summarized as historical or source-specific husbandry content. [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md) separates those source descriptions from current legal, welfare, and veterinary guidance, which may differ by jurisdiction. (source: Zootechnics.pdf - Pages 25, 36, 46, 50)
 
 ## Related pages
 
-- [[cattle-reproduction-and-lactation]]
-- [[artificial-insemination]]
-- [[colostrum]]
-- [[sheep-farming]]
-- [[horse-breeding]]
-- [[pig-farming]]
-- [[donkeys-mules-and-hinnies]]
-- [[livestock-welfare-and-regulation]]
-- [[zootechnics]]
+- [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md)
+- [artificial-insemination](artificial-insemination.md)
+- [colostrum](colostrum.md)
+- [sheep-farming](sheep-farming.md)
+- [horse-breeding](horse-breeding.md)
+- [pig-farming](pig-farming.md)
+- [donkeys-mules-and-hinnies](donkeys-mules-and-hinnies.md)
+- [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md)
+- [zootechnics](zootechnics.md)

@@ -26,7 +26,7 @@ In the source, transhumance sits beside fenced open-air rotational farming and p
 
 ## Related pages
 
-- [[sheep-farming]]
-- [[livestock-breeding-systems]]
-- [[sheep-breeds-and-products]]
-- [[zootechnics]]
+- [sheep-farming](sheep-farming.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [sheep-breeds-and-products](sheep-breeds-and-products.md)
+- [zootechnics](zootechnics.md)

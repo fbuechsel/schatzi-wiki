@@ -14,7 +14,7 @@ The source places vertebrates inside the phylum Chordata and defines chordates b
 
 The source presents the notochord as the structural feature that unites the phylum even when adult forms later diverge strongly. Vertebrates are therefore introduced not only as a list of familiar animals but as a branch that shares a deep developmental and anatomical plan. (source: Zoology.pdf - Pages 32-42)
 
-This emphasis links the vertebrate survey to the book's broader interest in classification through shared organization rather than only superficial appearance. In that sense, [[vertebrates]] functions as a practical example of evolutionary classification in action. (source: Zoology.pdf - Pages 32-42)
+This emphasis links the vertebrate survey to the book's broader interest in classification through shared organization rather than only superficial appearance. In that sense, [vertebrates](vertebrates.md) functions as a practical example of evolutionary classification in action. (source: Zoology.pdf - Pages 32-42)
 
 ## Fish and the water-to-land transition
 
@@ -30,12 +30,12 @@ Birds are identified by feathers, wings, a keeled sternum, and homoeothermy, whi
 
 ## Human placement
 
-The vertebrate survey ends by situating humans inside mammals, primates, hominids, and the genus *Homo*. This placement leads directly into [[human-evolution]], where the source turns from general vertebrate classes to the particular evolutionary narrative attached to our own lineage. (source: Zoology.pdf - Pages 32-42)
+The vertebrate survey ends by situating humans inside mammals, primates, hominids, and the genus *Homo*. This placement leads directly into [human-evolution](human-evolution.md), where the source turns from general vertebrate classes to the particular evolutionary narrative attached to our own lineage. (source: Zoology.pdf - Pages 32-42)
 
 ## Related pages
 
-- [[animals]]
-- [[human-evolution]]
-- [[biological-classification]]
-- [[biological-evolution]]
-- [[zoology]]
+- [animals](animals.md)
+- [human-evolution](human-evolution.md)
+- [biological-classification](biological-classification.md)
+- [biological-evolution](biological-evolution.md)
+- [zoology](zoology.md)

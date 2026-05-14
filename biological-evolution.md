@@ -39,8 +39,8 @@ The closing part of the chapter describes Darwinism as a broader scientific curr
 
 ## Related pages
 
-- [[zoology]]
-- [[biological-classification]]
-- [[human-evolution]]
-- [[mendelian-genetics]]
-- [[vertebrates]]
+- [zoology](zoology.md)
+- [biological-classification](biological-classification.md)
+- [human-evolution](human-evolution.md)
+- [mendelian-genetics](mendelian-genetics.md)
+- [vertebrates](vertebrates.md)

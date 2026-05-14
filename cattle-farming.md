@@ -30,9 +30,9 @@ The source gives separate cattle terminology for reproductive animals and animal
 
 Those categories connect age, sex, reproductive status, diet, and slaughter target. For example, a cow is defined as a female that has given birth at least once, while a suckling calf is fed only milk and slaughtered at about four months for white meat. (source: Zootechnics.pdf - Page 19)
 
-## [[zoognostics]] and Body Regions
+## [zoognostics](zoognostics.md) and Body Regions
 
-The source uses [[zoognostics]] for external body assessment. It divides the animal into head, neck, torso, front legs, and rear legs, then subdivides these into named zoognostic regions such as sinciput, forehead, horn, withers, brisket, rump, fetlock, pastern, stifle, and hock. (source: Zootechnics.pdf - Page 20)
+The source uses [zoognostics](zoognostics.md) for external body assessment. It divides the animal into head, neck, torso, front legs, and rear legs, then subdivides these into named zoognostic regions such as sinciput, forehead, horn, withers, brisket, rump, fetlock, pastern, stifle, and hock. (source: Zootechnics.pdf - Page 20)
 
 This vocabulary matters because breed descriptions and production evaluations depend on visible body form. The source links withers to stature or height, shin to metacarpals and metatarsals, fetlock to metacarpal and metatarsal phalangeal joints, and hock to the lower tibia epiphysis and tarsal joint. (source: Zootechnics.pdf - Page 20)
 
@@ -40,13 +40,13 @@ This vocabulary matters because breed descriptions and production evaluations de
 
 The source distinguishes wild, loose-stall, and cubicle-stall systems for cattle. It presents grazing as natural and potentially useful for forage resources that are hard to exploit otherwise, but says year-round fresh fodder makes the system difficult to apply broadly in Italy except in contexts such as Maremma with hardy Maremmana cattle. (source: Zootechnics.pdf - Page 21)
 
-Loose stalls are described as historically common and labor-intensive, while cubicle stall systems are described as more recent and widespread for both meat and milk cattle. This makes [[livestock-breeding-systems]] one of the practical links from cattle husbandry to sheep and pig management. (source: Zootechnics.pdf - Page 21)
+Loose stalls are described as historically common and labor-intensive, while cubicle stall systems are described as more recent and widespread for both meat and milk cattle. This makes [livestock-breeding-systems](livestock-breeding-systems.md) one of the practical links from cattle husbandry to sheep and pig management. (source: Zootechnics.pdf - Page 21)
 
 ## Related pages
 
-- [[cattle-breeds]]
-- [[cattle-reproduction-and-lactation]]
-- [[livestock-breeding-systems]]
-- [[zoognostics]]
-- [[zootechnics]]
-- [[vertebrates]]
+- [cattle-breeds](cattle-breeds.md)
+- [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [zoognostics](zoognostics.md)
+- [zootechnics](zootechnics.md)
+- [vertebrates](vertebrates.md)

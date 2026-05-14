@@ -14,13 +14,13 @@ The source presents horse breeding as an activity with changing economic functio
 
 The source classifies horses as mammals in the order Perissodactyla, family Equidae, genus *Equus*, and species *Equus caballus*. It relates horses to zebras, onager donkeys, domestic donkeys, mules, and hinnies. (source: Zootechnics.pdf - Page 39)
 
-Perissodactyls are described as ungulates with an odd number of toes, where the middle toe is more developed and supports body weight. This classification links the horse chapter to broader [[vertebrates]] and [[animals]] pages, while the source itself keeps the discussion practical and breed-centered. (source: Zootechnics.pdf - Page 39)
+Perissodactyls are described as ungulates with an odd number of toes, where the middle toe is more developed and supports body weight. This classification links the horse chapter to broader [vertebrates](vertebrates.md) and [animals](animals.md) pages, while the source itself keeps the discussion practical and breed-centered. (source: Zootechnics.pdf - Page 39)
 
 ## Breeds and Uses
 
 The source covers the Arab thoroughbred, Berber horse, English thoroughbred, and Quarter Horse. These breeds are treated through origin, morphology, coat colors, height, weight, temperament, speed, endurance, riding use, racing use, and influence on other breeds. (source: Zootechnics.pdf - Pages 39-44)
 
-The breed material is summarized separately in [[equine-breeds]], because the horse chapter gives enough detail for breed comparison and because the source later shifts from breed description to reproductive management. (source: Zootechnics.pdf - Pages 39-45)
+The breed material is summarized separately in [equine-breeds](equine-breeds.md), because the horse chapter gives enough detail for breed comparison and because the source later shifts from breed description to reproductive management. (source: Zootechnics.pdf - Pages 39-45)
 
 ## Reproduction
 
@@ -40,8 +40,8 @@ Birth in mares is described as broadly similar to cattle but usually faster, wit
 
 ## Related pages
 
-- [[equine-breeds]]
-- [[donkeys-mules-and-hinnies]]
-- [[livestock-reproduction-techniques]]
-- [[zootechnics]]
-- [[vertebrates]]
+- [equine-breeds](equine-breeds.md)
+- [donkeys-mules-and-hinnies](donkeys-mules-and-hinnies.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [zootechnics](zootechnics.md)
+- [vertebrates](vertebrates.md)

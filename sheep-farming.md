@@ -24,9 +24,9 @@ Sheep milk is treated primarily as a cheese-making resource. The source says mil
 
 ## Rearing Systems
 
-The sheep chapter describes great [[transhumance]], short [[transhumance]], fenced open-air rotational farming, and permanent facilities. Great transhumance involved large flocks moving long distances between lowland and mountain pastures, while short transhumance persists where pastures are directly above farms. (source: Zootechnics.pdf - Page 34)
+The sheep chapter describes great [transhumance](transhumance.md), short [transhumance](transhumance.md), fenced open-air rotational farming, and permanent facilities. Great transhumance involved large flocks moving long distances between lowland and mountain pastures, while short transhumance persists where pastures are directly above farms. (source: Zootechnics.pdf - Page 34)
 
-Permanent facilities are described as increasingly common because of shepherd shortages, while fenced rotational grazing is presented as a system in which one shepherd can supervise 200 to 300 sheep. These systems connect sheep production to the broader [[livestock-breeding-systems]] page. (source: Zootechnics.pdf - Page 34)
+Permanent facilities are described as increasingly common because of shepherd shortages, while fenced rotational grazing is presented as a system in which one shepherd can supervise 200 to 300 sheep. These systems connect sheep production to the broader [livestock-breeding-systems](livestock-breeding-systems.md) page. (source: Zootechnics.pdf - Page 34)
 
 ## Reproduction and Flock Management
 
@@ -40,14 +40,14 @@ Pregnancy in ewes is said to last an average of five months. The source recommen
 
 The source describes castration, tail docking, dehorning, marking, and electronic identification in sheep and goats. It says animals born after 31 December 2009 require an electronic identification code under cited EU regulations, while animals intended for slaughter before 12 months may use a simplified identification system. (source: Zootechnics.pdf - Pages 36-37)
 
-These handling and marking details should be read as source-specific husbandry and regulatory content. [[livestock-welfare-and-regulation]] records the caution that current rules may differ from the source's 2015 context and should be checked before applying any legal or veterinary procedure. (source: Zootechnics.pdf - Page 37)
+These handling and marking details should be read as source-specific husbandry and regulatory content. [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md) records the caution that current rules may differ from the source's 2015 context and should be checked before applying any legal or veterinary procedure. (source: Zootechnics.pdf - Page 37)
 
 ## Related pages
 
-- [[sheep-breeds-and-products]]
-- [[goat-rearing]]
-- [[livestock-breeding-systems]]
-- [[livestock-reproduction-techniques]]
-- [[transhumance]]
-- [[livestock-welfare-and-regulation]]
-- [[zootechnics]]
+- [sheep-breeds-and-products](sheep-breeds-and-products.md)
+- [goat-rearing](goat-rearing.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [transhumance](transhumance.md)
+- [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md)
+- [zootechnics](zootechnics.md)

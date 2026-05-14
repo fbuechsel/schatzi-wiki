@@ -42,7 +42,7 @@ The source lists recognized AQHA coat colors including bay, black, brown, sorrel
 
 ## Related pages
 
-- [[horse-breeding]]
-- [[donkeys-mules-and-hinnies]]
-- [[livestock-reproduction-techniques]]
-- [[zootechnics]]
+- [horse-breeding](horse-breeding.md)
+- [donkeys-mules-and-hinnies](donkeys-mules-and-hinnies.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [zootechnics](zootechnics.md)

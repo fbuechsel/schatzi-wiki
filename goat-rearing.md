@@ -34,7 +34,7 @@ For Mediterranean breeds, the source lists Garganica, Maltese, Ionica, Sarda, Gi
 
 ## Related pages
 
-- [[sheep-farming]]
-- [[livestock-breeding-systems]]
-- [[zootechnics]]
-- [[animals]]
+- [sheep-farming](sheep-farming.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [zootechnics](zootechnics.md)
+- [animals](animals.md)

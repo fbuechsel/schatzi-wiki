@@ -24,12 +24,12 @@ Because those details are jurisdiction-specific and dated, wiki answers should p
 
 ## Practical Use in the Wiki
 
-When answering questions from this wiki, use this page to separate three things: what the source says, whether the claim is about biology or practice, and whether current veterinary or legal guidance is needed. This distinction is especially important for [[artificial-insemination]], [[colostrum]], [[sheep-farming]], and [[livestock-reproduction-techniques]]. (source: Zootechnics.pdf - Pages 23, 25, 36-37, 45-46, 50, 59)
+When answering questions from this wiki, use this page to separate three things: what the source says, whether the claim is about biology or practice, and whether current veterinary or legal guidance is needed. This distinction is especially important for [artificial-insemination](artificial-insemination.md), [colostrum](colostrum.md), [sheep-farming](sheep-farming.md), and [livestock-reproduction-techniques](livestock-reproduction-techniques.md). (source: Zootechnics.pdf - Pages 23, 25, 36-37, 45-46, 50, 59)
 
 ## Related pages
 
-- [[zootechnics]]
-- [[livestock-reproduction-techniques]]
-- [[sheep-farming]]
-- [[artificial-insemination]]
-- [[colostrum]]
+- [zootechnics](zootechnics.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [sheep-farming](sheep-farming.md)
+- [artificial-insemination](artificial-insemination.md)
+- [colostrum](colostrum.md)

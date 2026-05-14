@@ -20,10 +20,10 @@ The source notes that zoognostic regions do not always perfectly match anatomica
 
 ## Role in Breed Description
 
-Zoognostics matters in the source because breed cards repeatedly describe stature, withers, rump, thighs, limbs, udders, coat, and other visible features. It gives a shared vocabulary for connecting [[cattle-breeds]] to [[cattle-farming]] and production assessment. (source: Zootechnics.pdf - Pages 5-20)
+Zoognostics matters in the source because breed cards repeatedly describe stature, withers, rump, thighs, limbs, udders, coat, and other visible features. It gives a shared vocabulary for connecting [cattle-breeds](cattle-breeds.md) to [cattle-farming](cattle-farming.md) and production assessment. (source: Zootechnics.pdf - Pages 5-20)
 
 ## Related pages
 
-- [[cattle-farming]]
-- [[cattle-breeds]]
-- [[zootechnics]]
+- [cattle-farming](cattle-farming.md)
+- [cattle-breeds](cattle-breeds.md)
+- [zootechnics](zootechnics.md)

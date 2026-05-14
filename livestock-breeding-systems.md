@@ -18,9 +18,9 @@ Loose stalls are described as a system formerly used widely for cattle of any br
 
 ## Sheep Systems
 
-The sheep chapter describes great [[transhumance]] as a nomadic system in which flocks of 300 to more than 2000 sheep moved hundreds of kilometers along sheep-tracks between lowland and mountain pastures. The source says this practice declined because of fewer shepherds, loss of sheep-tracks and road traffic, and falling profitability from smaller flocks. (source: Zootechnics.pdf - Page 34)
+The sheep chapter describes great [transhumance](transhumance.md) as a nomadic system in which flocks of 300 to more than 2000 sheep moved hundreds of kilometers along sheep-tracks between lowland and mountain pastures. The source says this practice declined because of fewer shepherds, loss of sheep-tracks and road traffic, and falling profitability from smaller flocks. (source: Zootechnics.pdf - Page 34)
 
-Short [[transhumance]] is described as reduced but still present where pastures sit directly above farms and flocks are small. The source presents it as worth preserving because it supports traditional cheese and dairy products with good returns to shepherds. (source: Zootechnics.pdf - Page 34)
+Short [transhumance](transhumance.md) is described as reduced but still present where pastures sit directly above farms and flocks are small. The source presents it as worth preserving because it supports traditional cheese and dairy products with good returns to shepherds. (source: Zootechnics.pdf - Page 34)
 
 Intensive open-air farming with fences is described as rotational grazing through fenced plots, with stocking based on forage production and grazing duration. The source says this system lets one shepherd supervise flocks of 200 to 300 sheep, supplement feed when pasture is insufficient, and provide water where wells or springs are absent. (source: Zootechnics.pdf - Page 34)
 
@@ -42,9 +42,9 @@ Indoor pig farming is described as the most widespread system in Italy and the s
 
 ## Related pages
 
-- [[zootechnics]]
-- [[cattle-farming]]
-- [[sheep-farming]]
-- [[transhumance]]
-- [[goat-rearing]]
-- [[pig-farming]]
+- [zootechnics](zootechnics.md)
+- [cattle-farming](cattle-farming.md)
+- [sheep-farming](sheep-farming.md)
+- [transhumance](transhumance.md)
+- [goat-rearing](goat-rearing.md)
+- [pig-farming](pig-farming.md)

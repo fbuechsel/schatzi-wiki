@@ -46,8 +46,8 @@ This page preserves the source's terminology and timeline language. Some of that
 
 ## Related pages
 
-- [[vertebrates]]
-- [[biological-evolution]]
-- [[animals]]
-- [[biological-classification]]
-- [[zoology]]
+- [vertebrates](vertebrates.md)
+- [biological-evolution](biological-evolution.md)
+- [animals](animals.md)
+- [biological-classification](biological-classification.md)
+- [zoology](zoology.md)

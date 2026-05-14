@@ -16,15 +16,15 @@ The book argues that the discovery of microscopic life made it difficult to forc
 
 ## The five kingdoms in source terms
 
-Within this scheme, [[monera]] are prokaryotic unicellular organisms and are treated as the earliest major life forms in the source's evolutionary story. [[protista]] are mostly unicellular eukaryotes that may be autotrophic or heterotrophic, and they include both protozoa and algae in the source's framework. (source: Zoology.pdf - Pages 13-14)
+Within this scheme, [monera](monera.md) are prokaryotic unicellular organisms and are treated as the earliest major life forms in the source's evolutionary story. [protista](protista.md) are mostly unicellular eukaryotes that may be autotrophic or heterotrophic, and they include both protozoa and algae in the source's framework. (source: Zoology.pdf - Pages 13-14)
 
-[[fungi]] are separated from plants because the source describes them as heterotrophic organisms built from hyphae and mycelium rather than as photosynthetic autotrophs. Plantae are treated as multicellular autotrophs able to sustain themselves through photosynthesis, while [[animals]] are multicellular heterotrophs characterized by movement, irritability, and complex tissue organization. (source: Zoology.pdf - Pages 13-14)
+[fungi](fungi.md) are separated from plants because the source describes them as heterotrophic organisms built from hyphae and mycelium rather than as photosynthetic autotrophs. Plantae are treated as multicellular autotrophs able to sustain themselves through photosynthesis, while [animals](animals.md) are multicellular heterotrophs characterized by movement, irritability, and complex tissue organization. (source: Zoology.pdf - Pages 13-14)
 
 ## Evolutionary story attached to the model
 
 The source does not use the five kingdoms only as a static filing system. It also gives them an evolutionary ordering in which Monera appear first, later lines give rise to Protista, and from there the source traces the emergence of fungi, plants, and animals as increasingly differentiated branches of life. (source: Zoology.pdf - Pages 13-14)
 
-The text also uses this framework to explain why [[viruses]] do not fit comfortably into the kingdom model. Viruses are described as non-cellular entities that depend on host metabolism, so they are placed outside ordinary kingdom classification. (source: Zoology.pdf - Pages 13-14)
+The text also uses this framework to explain why [viruses](viruses.md) do not fit comfortably into the kingdom model. Viruses are described as non-cellular entities that depend on host metabolism, so they are placed outside ordinary kingdom classification. (source: Zoology.pdf - Pages 13-14)
 
 ## Source limitations
 
@@ -38,8 +38,8 @@ This page should be read as a summary of the source's framework rather than a st
 
 ## Related pages
 
-- [[zoology]]
-- [[biological-classification]]
-- [[monera]]
-- [[protista]]
-- [[fungi]]
+- [zoology](zoology.md)
+- [biological-classification](biological-classification.md)
+- [monera](monera.md)
+- [protista](protista.md)
+- [fungi](fungi.md)

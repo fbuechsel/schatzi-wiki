@@ -26,7 +26,7 @@ Dairy heifers are said not to be mated before 12 to 14 months and should weigh a
 
 The source defines fertilisation as the meeting of egg and spermatozoon and the fusion of nuclei and genetic material. It says the egg reaches the upper third of the oviduct about 6 hours after ovulation and survives for about 8 to 12 hours if not fertilised, while spermatozoa survive about 40 hours. (source: Zootechnics.pdf - Page 23)
 
-[[artificial-insemination]] is described as time-sensitive, with the source giving an optimum insemination interval of 8 to 24 hours after heat begins. It describes the cervical-rectal method as introducing one hand into the rectum to locate the cervix while the other deposits semen into the cervix using a tube mounted on a gun-like instrument. (source: Zootechnics.pdf - Page 23)
+[artificial-insemination](artificial-insemination.md) is described as time-sensitive, with the source giving an optimum insemination interval of 8 to 24 hours after heat begins. It describes the cervical-rectal method as introducing one hand into the rectum to locate the cervix while the other deposits semen into the cervix using a tube mounted on a gun-like instrument. (source: Zootechnics.pdf - Page 23)
 
 The source emphasizes artificial insemination for genetic, economic, and health reasons. It says semen preservation and transport can extend the progeny of valuable breeders, progeny testing can evaluate breeding stock more rapidly, one bull can inseminate over a thousand cows in a year, and the absence of direct mating can reduce transmission of infectious genital diseases. (source: Zootechnics.pdf - Page 23)
 
@@ -44,16 +44,16 @@ After birth, the source says the cow needs quiet, hygienic bedding, protection f
 
 The source links lactation to endocrine control by prolactin and progesterone. It says progesterone rises during pregnancy and inhibits prolactin's entry into circulation, while after birth progesterone formation stops and prolactin enters circulation, triggering milk synthesis in mammary alveoli. (source: Zootechnics.pdf - Page 25)
 
-[[colostrum]] is described as the mammary secretion of the first 24 hours after birth, followed by transition milk between 24 and 72 hours. The source says the cow's epitheliochorial placenta does not allow antibodies to pass from mother to fetus, so passive immunity must be transferred through colostrum early after birth. (source: Zootechnics.pdf - Page 25)
+[colostrum](colostrum.md) is described as the mammary secretion of the first 24 hours after birth, followed by transition milk between 24 and 72 hours. The source says the cow's epitheliochorial placenta does not allow antibodies to pass from mother to fetus, so passive immunity must be transferred through colostrum early after birth. (source: Zootechnics.pdf - Page 25)
 
 The source sets traditional cattle lactation at 305 days, with milk production rising until days 30 to 40, remaining steady for about two months, and then declining before a dry period. It says production depends on factors such as age, breed, health, food quality, and number of lactations, and that milking three times a day can increase total production compared with the usual two milkings. (source: Zootechnics.pdf - Pages 25-26)
 
 ## Related pages
 
-- [[cattle-farming]]
-- [[cattle-breeds]]
-- [[livestock-reproduction-techniques]]
-- [[livestock-breeding-systems]]
-- [[artificial-insemination]]
-- [[colostrum]]
-- [[zootechnics]]
+- [cattle-farming](cattle-farming.md)
+- [cattle-breeds](cattle-breeds.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [artificial-insemination](artificial-insemination.md)
+- [colostrum](colostrum.md)
+- [zootechnics](zootechnics.md)

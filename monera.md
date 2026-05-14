@@ -30,12 +30,12 @@ The source gives special attention to spores as resistant forms produced when co
 
 Bacteria are also shown as useful to humans in fermentation, food preservation, sewage treatment, and biotechnology. Examples in the source include yoghurt and cheese production, decomposition of pollutants, and practical control of pathogenic bacteria by sterilization, disinfection, pasteurization, antibiotic chemotherapy, and vaccination. (source: Zoology.pdf - Pages 15-17)
 
-This page follows the source's older kingdom terminology. For modern taxonomy, use the further-reading links on [[five-kingdoms-of-nature]]. (source: Zoology.pdf - Pages 15-17)
+This page follows the source's older kingdom terminology. For modern taxonomy, use the further-reading links on [five-kingdoms-of-nature](five-kingdoms-of-nature.md). (source: Zoology.pdf - Pages 15-17)
 
 ## Related pages
 
-- [[five-kingdoms-of-nature]]
-- [[protista]]
-- [[fungi]]
-- [[viruses]]
-- [[zoology]]
+- [five-kingdoms-of-nature](five-kingdoms-of-nature.md)
+- [protista](protista.md)
+- [fungi](fungi.md)
+- [viruses](viruses.md)
+- [zoology](zoology.md)

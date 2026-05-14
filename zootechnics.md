@@ -28,23 +28,23 @@ The pig chapter focuses on industrial pig farming in Italy. It describes heavy-p
 
 ## How This Source Fits the Wiki
 
-Compared with [[zoology]], this source is less concerned with evolutionary classification and more concerned with domestic animal production. It therefore connects most directly to [[livestock-breeding-systems]], [[livestock-reproduction-techniques]], [[cattle-farming]], [[sheep-farming]], [[horse-breeding]], and [[pig-farming]]. (source: Zootechnics.pdf - Pages 2-3)
+Compared with [zoology](zoology.md), this source is less concerned with evolutionary classification and more concerned with domestic animal production. It therefore connects most directly to [livestock-breeding-systems](livestock-breeding-systems.md), [livestock-reproduction-techniques](livestock-reproduction-techniques.md), [cattle-farming](cattle-farming.md), [sheep-farming](sheep-farming.md), [horse-breeding](horse-breeding.md), and [pig-farming](pig-farming.md). (source: Zootechnics.pdf - Pages 2-3)
 
-The source also provides a bridge between general animal biology and applied husbandry. Topics such as [[cattle-reproduction-and-lactation]], [[goat-rearing]], and [[donkeys-mules-and-hinnies]] translate anatomy, reproduction, and behavior into practical farm decisions. (source: Zootechnics.pdf - Pages 21-26, 37-50)
+The source also provides a bridge between general animal biology and applied husbandry. Topics such as [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md), [goat-rearing](goat-rearing.md), and [donkeys-mules-and-hinnies](donkeys-mules-and-hinnies.md) translate anatomy, reproduction, and behavior into practical farm decisions. (source: Zootechnics.pdf - Pages 21-26, 37-50)
 
 ## Limitations and Source-Specific Context
 
 The PDF was generated from a 2015 Word document and contains translated instructional prose, so some terms and phrases are awkward or internally inconsistent. The sheep chapter, for example, describes the ewe oestrous cycle using phase labels that appear garbled in translation, and the horse chapter has the heading "REPRODUCTIONE TECHNIQUES." (source: Zootechnics.pdf - Pages 35, 45)
 
-Several management and surgical practices are preserved here as source-specific descriptions, not as modern welfare guidance. [[livestock-welfare-and-regulation]] records that caution for procedures such as castration, tail docking, dehorning, and manual removal of retained placenta, all of which the source discusses in practical husbandry terms and sometimes says require veterinary involvement. (source: Zootechnics.pdf - Pages 25, 36)
+Several management and surgical practices are preserved here as source-specific descriptions, not as modern welfare guidance. [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md) records that caution for procedures such as castration, tail docking, dehorning, and manual removal of retained placenta, all of which the source discusses in practical husbandry terms and sometimes says require veterinary involvement. (source: Zootechnics.pdf - Pages 25, 36)
 
 ## Related pages
 
-- [[cattle-farming]]
-- [[sheep-farming]]
-- [[goat-rearing]]
-- [[horse-breeding]]
-- [[pig-farming]]
-- [[livestock-breeding-systems]]
-- [[livestock-reproduction-techniques]]
-- [[livestock-welfare-and-regulation]]
+- [cattle-farming](cattle-farming.md)
+- [sheep-farming](sheep-farming.md)
+- [goat-rearing](goat-rearing.md)
+- [horse-breeding](horse-breeding.md)
+- [pig-farming](pig-farming.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md)

@@ -38,9 +38,9 @@ This page summarizes the source's practical account and should not be treated as
 
 ## Related pages
 
-- [[livestock-reproduction-techniques]]
-- [[cattle-reproduction-and-lactation]]
-- [[sheep-farming]]
-- [[horse-breeding]]
-- [[pig-farming]]
-- [[livestock-welfare-and-regulation]]
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md)
+- [sheep-farming](sheep-farming.md)
+- [horse-breeding](horse-breeding.md)
+- [pig-farming](pig-farming.md)
+- [livestock-welfare-and-regulation](livestock-welfare-and-regulation.md)

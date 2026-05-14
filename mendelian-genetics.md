@@ -47,8 +47,8 @@ This chapter is a useful introduction, but some of its framing is deliberately s
 
 ## Related pages
 
-- [[zoology]]
-- [[biological-evolution]]
-- [[human-evolution]]
-- [[biological-classification]]
-- [[viruses]]
+- [zoology](zoology.md)
+- [biological-evolution](biological-evolution.md)
+- [human-evolution](human-evolution.md)
+- [biological-classification](biological-classification.md)
+- [viruses](viruses.md)

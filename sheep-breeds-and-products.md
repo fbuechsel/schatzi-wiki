@@ -40,7 +40,7 @@ The source treats sheep products as an integrated system. Milk is linked to chee
 
 ## Related pages
 
-- [[sheep-farming]]
-- [[livestock-breeding-systems]]
-- [[livestock-reproduction-techniques]]
-- [[zootechnics]]
+- [sheep-farming](sheep-farming.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [zootechnics](zootechnics.md)

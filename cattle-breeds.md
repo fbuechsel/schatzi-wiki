@@ -12,7 +12,7 @@ The source organizes cattle breeds mainly by production goal: dairy breeds, meat
 
 ## Dairy and Dairy-Leaning Breeds
 
-The Italian Friesian is presented as a major dairy breed descended from Dutch and North American stock and associated in Italy with the Po Valley. The source describes black-pied or red-pied coat variants, strong udder attachment, prominent abdominal veins, centered teats, adult female weight from 550 to 900 kg, adult male weight from 900 to 1300 kg, and a breed-card average pregnancy length of 287 days. This breed-card value differs from the general cattle pregnancy average of 283 days summarized on [[cattle-reproduction-and-lactation]]. (source: Zootechnics.pdf - Pages 5, 24)
+The Italian Friesian is presented as a major dairy breed descended from Dutch and North American stock and associated in Italy with the Po Valley. The source describes black-pied or red-pied coat variants, strong udder attachment, prominent abdominal veins, centered teats, adult female weight from 550 to 900 kg, adult male weight from 900 to 1300 kg, and a breed-card average pregnancy length of 287 days. This breed-card value differs from the general cattle pregnancy average of 283 days summarized on [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md). (source: Zootechnics.pdf - Pages 5, 24)
 
 Brown cattle are described as hardy dairy animals with brown coat coloration and strong adaptability. The source distinguishes Brown Mountain cattle from Brown Swiss cattle, connecting the former to southern Germany and the latter to the Swiss canton of Schwyz, while describing both as useful in difficult environments and more milk-oriented than meat-oriented in the source's account. (source: Zootechnics.pdf - Pages 6-7)
 
@@ -42,12 +42,12 @@ The Piedmontese breed is described as a former triple-purpose breed reshaped tow
 
 ## Role in the Source
 
-Breed comparison in the source is not only a catalogue of names. It shows how [[cattle-farming]] connects body form, local environment, product market, and reproductive management into a practical production system. (source: Zootechnics.pdf - Pages 3-18)
+Breed comparison in the source is not only a catalogue of names. It shows how [cattle-farming](cattle-farming.md) connects body form, local environment, product market, and reproductive management into a practical production system. (source: Zootechnics.pdf - Pages 3-18)
 
 ## Related pages
 
-- [[cattle-farming]]
-- [[cattle-reproduction-and-lactation]]
-- [[livestock-breeding-systems]]
-- [[zoognostics]]
-- [[zootechnics]]
+- [cattle-farming](cattle-farming.md)
+- [cattle-reproduction-and-lactation](cattle-reproduction-and-lactation.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [zoognostics](zoognostics.md)
+- [zootechnics](zootechnics.md)

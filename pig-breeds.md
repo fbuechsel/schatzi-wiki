@@ -38,11 +38,11 @@ The Large Black is described as an English breed with dark skin, black silky bri
 
 ## Role in the Source
 
-The pig-breed chapter links breed choice to [[pig-farming]] systems. Hardy pigmented breeds are associated with outdoor or free-range conditions, while highly prolific and fast-growing foreign breeds are associated with industrial production and heavy-pig economics. (source: Zootechnics.pdf - Pages 52-58)
+The pig-breed chapter links breed choice to [pig-farming](pig-farming.md) systems. Hardy pigmented breeds are associated with outdoor or free-range conditions, while highly prolific and fast-growing foreign breeds are associated with industrial production and heavy-pig economics. (source: Zootechnics.pdf - Pages 52-58)
 
 ## Related pages
 
-- [[pig-farming]]
-- [[livestock-breeding-systems]]
-- [[livestock-reproduction-techniques]]
-- [[zootechnics]]
+- [pig-farming](pig-farming.md)
+- [livestock-breeding-systems](livestock-breeding-systems.md)
+- [livestock-reproduction-techniques](livestock-reproduction-techniques.md)
+- [zootechnics](zootechnics.md)

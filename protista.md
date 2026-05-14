@@ -12,7 +12,7 @@ The source defines Protista as eukaryotic organisms that are mostly unicellular,
 
 ## Defining features
 
-Unlike [[monera]], protists are presented as organisms with a well-differentiated nucleus bounded by a membrane. The source emphasizes that even a single protist cell is internally complex enough to carry out all major life functions on its own. (source: Zoology.pdf - Pages 17-18)
+Unlike [monera](monera.md), protists are presented as organisms with a well-differentiated nucleus bounded by a membrane. The source emphasizes that even a single protist cell is internally complex enough to carry out all major life functions on its own. (source: Zoology.pdf - Pages 17-18)
 
 The text also uses protists as an example of how classification depends on criteria. Some algae are multicellular, but the source still places them in Protista because their cells are not described as differentiated into the kinds of specialized tissues seen in higher plants and animals. (source: Zoology.pdf - Pages 17-18)
 
@@ -28,12 +28,12 @@ The book groups heterotrophic protists under the label “protozoa” and autotr
 
 Parasitic examples include *Plasmodium malariae* and *Trypanosoma gambiense*. On the autotrophic side, the source emphasizes algae as major contributors to marine plankton and names green, brown, and red algae as important multicellular groups. (source: Zoology.pdf - Pages 17-18)
 
-This page reflects the source's older kingdom-level framing. For modern classification context, see [[five-kingdoms-of-nature]]. (source: Zoology.pdf - Pages 17-18)
+This page reflects the source's older kingdom-level framing. For modern classification context, see [five-kingdoms-of-nature](five-kingdoms-of-nature.md). (source: Zoology.pdf - Pages 17-18)
 
 ## Related pages
 
-- [[five-kingdoms-of-nature]]
-- [[monera]]
-- [[fungi]]
-- [[animals]]
-- [[zoology]]
+- [five-kingdoms-of-nature](five-kingdoms-of-nature.md)
+- [monera](monera.md)
+- [fungi](fungi.md)
+- [animals](animals.md)
+- [zoology](zoology.md)

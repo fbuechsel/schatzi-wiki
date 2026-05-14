@@ -32,12 +32,12 @@ Annelids are used to introduce segmentation and cephalization, while molluscs ar
 
 The source pays special attention to arthropods and then to insects in particular. Insects are treated as extraordinarily diverse and ecologically important, while arachnids, crustaceans, and myriapods are used to show how body appendages and body regions support class-level distinctions within the phylum. (source: Zoology.pdf - Pages 22-32)
 
-This page is the broad invertebrate-side counterpart to [[vertebrates]], which continues the source's survey into the chordate line. (source: Zoology.pdf - Pages 22-32)
+This page is the broad invertebrate-side counterpart to [vertebrates](vertebrates.md), which continues the source's survey into the chordate line. (source: Zoology.pdf - Pages 22-32)
 
 ## Related pages
 
-- [[zoology]]
-- [[vertebrates]]
-- [[biological-classification]]
-- [[five-kingdoms-of-nature]]
-- [[biological-evolution]]
+- [zoology](zoology.md)
+- [vertebrates](vertebrates.md)
+- [biological-classification](biological-classification.md)
+- [five-kingdoms-of-nature](five-kingdoms-of-nature.md)
+- [biological-evolution](biological-evolution.md)

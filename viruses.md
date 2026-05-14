@@ -14,7 +14,7 @@ The source describes viruses as particles made from nucleic acid and a protein c
 
 This discussion appears directly alongside the source's five-kingdom overview. Viruses are said not to fit within ordinary kingdom classification because they are not true cells and because they carry out vital functions only when using the metabolism of host organisms. (source: Zoology.pdf - Page 14)
 
-That position makes [[viruses]] an exception inside the source's general map of life. The kingdoms are built around cellular organisms, while viruses are presented as biologically active but structurally simpler and dependent in a way that resists the same classificatory scheme. (source: Zoology.pdf - Page 14)
+That position makes [viruses](viruses.md) an exception inside the source's general map of life. The kingdoms are built around cellular organisms, while viruses are presented as biologically active but structurally simpler and dependent in a way that resists the same classificatory scheme. (source: Zoology.pdf - Page 14)
 
 ## Disease examples and caution
 
@@ -30,8 +30,8 @@ This is therefore one of the clearest places where the wiki should preserve what
 
 ## Related pages
 
-- [[five-kingdoms-of-nature]]
-- [[monera]]
-- [[protista]]
-- [[mendelian-genetics]]
-- [[zoology]]
+- [five-kingdoms-of-nature](five-kingdoms-of-nature.md)
+- [monera](monera.md)
+- [protista](protista.md)
+- [mendelian-genetics](mendelian-genetics.md)
+- [zoology](zoology.md)

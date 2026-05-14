@@ -1,0 +1,33 @@
+# Wiki Index
+
+- [[zoology]]: Overall map of the source, including classification, kingdoms, animals, evolution, and genetics.
+- [[zootechnics]]: Overall map of the veterinary-techniques source on applied livestock husbandry.
+- [[biological-classification]]: Taxonomy, binomial nomenclature, Linnaean ranks, and the shift toward evolutionary classification.
+- [[five-kingdoms-of-nature]]: Source-specific summary of the older five-kingdom model and its limits.
+- [[monera]]: Prokaryotic organization, bacterial groupings, spores, decomposition, and practical human uses.
+- [[protista]]: Mostly unicellular eukaryotes, aquatic life, reproduction, protozoa, and algae in source terms.
+- [[fungi]]: Hyphae, mycelium, fungal nutrition, reproduction, major source-defined groups, and ecology.
+- [[animals]]: Defining animal traits, embryology, body-plan complexity, and the major invertebrate phyla.
+- [[vertebrates]]: Chordates, fish, amphibians, reptiles, birds, mammals, and human placement within the vertebrate line.
+- [[biological-evolution]]: Fixism, Lamarck, Darwin, natural selection, fossils, branching history, and evolutionary synthesis.
+- [[human-evolution]]: Primate traits, australopithecines, the genus *Homo*, and the source's culture-centered human narrative.
+- [[mendelian-genetics]]: Mendel's experiments, core inheritance terms, laws, and extensions beyond simple dominance.
+- [[viruses]]: Source treatment of viruses as non-cellular entities plus caution around outdated disease examples.
+- [[cattle-farming]]: Cattle husbandry, production categories, zoognostics, milk context, and rearing systems.
+- [[cattle-breeds]]: Dairy, meat, dual-purpose, Italian, and international cattle breeds in the zootechnics source.
+- [[cattle-reproduction-and-lactation]]: Cattle puberty, heat, insemination, pregnancy, birth, colostrum, and lactation.
+- [[livestock-breeding-systems]]: Cross-species rearing systems for cattle, sheep, goats, and pigs.
+- [[livestock-reproduction-techniques]]: Cross-species reproduction management for cattle, sheep, horses, pigs, and equid hybrids.
+- [[artificial-insemination]]: Cross-species livestock insemination and artificial fertilisation techniques in the zootechnics source.
+- [[colostrum]]: First postpartum mammary secretion, passive immunity, and calf-care role in the zootechnics source.
+- [[transhumance]]: Great and short sheep transhumance as seasonal pasture-movement systems.
+- [[zoognostics]]: External cattle body-region vocabulary used for breed and production assessment.
+- [[livestock-welfare-and-regulation]]: Caution page for dated regulatory claims and welfare-sensitive husbandry procedures.
+- [[sheep-farming]]: Sheep husbandry, Italian dairy orientation, wool context, rearing systems, reproduction, and milk production.
+- [[sheep-breeds-and-products]]: Sheep breeds grouped by milk, wool, meat, and mixed production.
+- [[goat-rearing]]: Goat classification, domestication, production goals, and Italian breed groupings.
+- [[horse-breeding]]: Horse classification, Italian production context, reproduction, pregnancy, and birth.
+- [[equine-breeds]]: Arab, Berber, English thoroughbred, and Quarter Horse breed notes.
+- [[donkeys-mules-and-hinnies]]: Donkey breeds, mule and hinny hybrids, breeding, sterility, and work use.
+- [[pig-farming]]: Italian pig production, heavy-pig systems, free-range and indoor farming, breed types, and reproduction.
+- [[pig-breeds]]: Italian and foreign pig breeds including Cinta Senese, Casertana, Large White, Essex, and Large Black.
